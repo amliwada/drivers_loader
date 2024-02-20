@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+	<file>Button.qml</file>
+	<file>FileLoader.qml</file>
+	<file>ResultWindow.qml</file>
+	<file>Settings.qml</file>
+	<file>RadioButton.qml</file>
+	<file>Input.qml</file>
+    </qresource>
+</RCC>
